@@ -142,6 +142,8 @@ def flappy_bird():
         draw_floor()
         if floor_x_pos <= -500:
             floor_x_pos = 0
+
+
         
 
 
